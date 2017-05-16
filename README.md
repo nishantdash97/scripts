@@ -3,16 +3,16 @@ Some Useful Scripts
 
 To use them, after downloading it, run the terminal command
 ```
-chmod +x filename.sh
+chmod +x scriptname.sh
 ```
 
 and then after that you will be able to execute it like 
 ```
-./filename.sh
+./scriptname.sh
 ```
 or
 ```
-./path/to/file/filename.sh
+./path/to/file/scriptname.sh
 ```
 
 Remember to consider permission level when running these scripts!
