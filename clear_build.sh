@@ -1,6 +1,6 @@
 # !/bin/bash
 
-if [ $UID != 0 ]
+if [ $UID ]
 then
 	echo "Permission Denied! Need Root Access (run with sudo)"
 	exit 1
