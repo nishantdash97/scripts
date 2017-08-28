@@ -25,4 +25,4 @@ Remember to consider permission level when running these scripts!
 4. Run install_build. (can use clear_build to uninstall the build if there were installation issues with the build).
 
 ## NOTE: 
-> install_drake.sh will create a folder called drake_distro in the same directory as the script. For the other 2 scripts to work,they need to be in the same directory as drake-distro.
+> install_drake.sh will create a folder called drake_distro in the same directory as the script. For the other 2 scripts to work, they need to be in the same directory as drake-distro.
